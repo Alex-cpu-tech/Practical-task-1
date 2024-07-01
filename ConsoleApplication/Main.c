@@ -21,7 +21,7 @@ int main() {
     double total_time = 1.0 / total_rate;
 
     // Виводимо результат, округлений до 2 знаків після коми
-    printf("%.2f\n", total_time);
+    printf("Час, необхідний для з'їдання пирога: %.2f\n", total_time);
 
     return 0;
 }
